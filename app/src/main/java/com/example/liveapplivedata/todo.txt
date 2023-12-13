@@ -1,0 +1,18 @@
+
+✅ - Fragment erstellen und anbinden
+✅ - Viewmodel erstellen und anbinden
+✅ - Daten laden aus Datasource(im Viewmodel)
+✅ - LiveData für ausgewählten Kontakte
+
+(✅) - Observer für ausgewählte Kontakte
+(✅) - Funktion erstellen, die von Fragment aus das UI Event verarbeitet
+
+Layouts erstellen
+onTextChangedListener in Fragment
+
+
+
+
+
+
+
